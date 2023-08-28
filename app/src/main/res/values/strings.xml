@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SideSheet</string>
+    <string name="show_side_modal">Show side modal</string>
+    <string name="show_side_persist">Show side persist</string>
+    <string name="side_sheet_modal">SideSheet Modal</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
